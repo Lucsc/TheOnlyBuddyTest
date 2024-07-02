@@ -1,0 +1,24 @@
+{
+    "questions" : [
+        {
+            "id": 1,
+            "question": "Quel est votre nom ?"
+        },
+        {
+            "id": 2,
+            "question": "Quel est votre prénom ?"
+        },
+        {
+            "id": 3,
+            "question": "Quel est votre sport préféré ?"
+        },
+        {
+            "id": 4,
+            "question": "Quel est votre animal préféré ?"
+        },
+        {
+            "id" : 5,
+            "question": "Quel est votre couleur préférée ?"
+        }
+    ]
+}
